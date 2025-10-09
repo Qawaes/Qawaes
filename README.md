@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Telecommunication+Engineer;Tech+Innovator;Problem+Solver;Lifelong+Learner" alt="Typing Animation" />
 </p>
 
-💡 **Software Engineer | Telecommunication & Information Engineering Student | Tech Innovator**  
+💡 **Software Engineer | Telecommunication & Information Engineer | Tech Innovator**  
 
 I'm a passionate developer and engineering student driven by curiosity and purpose — building software that bridges innovation, education, and real-world impact. I enjoy turning ideas into functional, elegant solutions through clean code and creative problem-solving.
 
